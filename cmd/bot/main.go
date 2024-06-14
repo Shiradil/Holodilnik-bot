@@ -6,7 +6,7 @@ import (
 )
 
 func main() {
-	discord, err := discordgo.New("Bot " + "MTI1MTE0MzI2NzE2OTU5OTQ5OA.Gx3xML.l-LkXnDEm1ia2PtPcoOG892-o6-yclDh4gtRw8")
+	discord, err := discordgo.New("Bot " + "")
 	if err != nil {
 		log.Fatal("ggwp")
 	}
